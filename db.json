@@ -1,10 +1,11 @@
 {
   "Users": {
+  "id": 1,
   "IsSuccess": true,
   "ReturnCode": 30,
   "ReturnMessage": "Test",
   "Data": {
-    "name": "typicode"
+    "name": "batuhan"
   }
   }
 }
